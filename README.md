@@ -3,6 +3,7 @@
 
 
 - bilişim sistemleri ve teknolojileri bölümü 2.sınıf öğrencisiyim
+  
 - 🔭  bilişim sistemleri ve teknolojileri bölümü 2.sınıf öğrencisiyim c#, python ve javascrpt biliyorum
   
 -🌱 Şu an siber güvenlik alanına bakıyorum🤣
