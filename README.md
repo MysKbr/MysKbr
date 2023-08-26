@@ -1,13 +1,15 @@
-### MERHABA 👋
+### MERHABA ben MİYASE KÜBRA ÖZDEMİR 👋
 
-- bilişim sistemleri ve teknolojileri bölümü 2.sınıf öğrencisiyim 
-- 🔭  web sitesi programlama üzerinde çalışıyorum
-- 🌱  python ve c# biliyorum javascriptde öğreniyorum
-- 📫  gmail
-- 😄  kadın
-- ⚡ 
--->
-<img src="gorsel-link" width="auto">
+
+
+- bilişim sistemleri ve teknolojileri bölümü 2.sınıf öğrencisiyim
+- 🔭  bilişim sistemleri ve teknolojileri bölümü 2.sınıf öğrencisiyim c#, python ve javascrpt biliyorum
+-🌱 Şu an siber güvenlik alanına bakıyorum🤣
+👯 Diğer yazılımcılarla işbirliği yapmayı düşünüyorum
+🥅 2024 Hedefleri: Alanımda kendimi yazılım alanında daha çok geliştirmek
+⚡ Eğlenceli gerçek: web sitsesi programlamayı , kitap okumayı eğlenceli buluyorum
+😻 Oluşturduğum web sitesine bir göz atın.
+
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+
